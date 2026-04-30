@@ -1,1 +1,4 @@
 daily_task.md
+db.sqlite3
+venv
+__pycache__
