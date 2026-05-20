@@ -6,5 +6,4 @@ urlpatterns = [
     path('api/rooms/add/', add_room),
     path('api/rooms/<int:id>/messages/', message),
     path('api/user/register', register),
-    path('api/user/login', login),
 ]
